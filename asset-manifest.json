@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Video_Hub/static/css/main.8eb20739.css",
+    "main.js": "/Video_Hub/static/js/main.7dbfc0c5.js",
+    "static/media/4.jpg": "/Video_Hub/static/media/4.d49e0035dbb89de8c6f1.jpg",
+    "static/media/1.jpg": "/Video_Hub/static/media/1.28a387008c422043cb0e.jpg",
+    "static/media/2.jpg": "/Video_Hub/static/media/2.bf3eb438675dd0541eee.jpg",
+    "static/media/3.jpg": "/Video_Hub/static/media/3.ee35c7afde733c27f81a.jpg",
+    "static/media/5.jpg": "/Video_Hub/static/media/5.0e0a44cf28c81380ba3d.jpg",
+    "index.html": "/Video_Hub/index.html",
+    "main.8eb20739.css.map": "/Video_Hub/static/css/main.8eb20739.css.map",
+    "main.7dbfc0c5.js.map": "/Video_Hub/static/js/main.7dbfc0c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb20739.css",
+    "static/js/main.7dbfc0c5.js"
+  ]
+}
